@@ -216,6 +216,14 @@ Décrire en français les numéros de version suivants et déduire :
   > - Pre-patch suivant **(1.0.1-0)**
   > - Pre-release suivante **(1.0.0-snapshot-0)**
 
-- **3.0.0-beta.1** : 3eme version majeure, première version beta.
+- **3.0.0-beta.1** : 3eme version majeure, première version beta numéro 1.
+
+  > - Majeure suivante **(3.0.0)**
+  > - Pre-majeure suivante **(4.0.0-0)**
+  > - Mineure suivante **(1.0.0)**
+  > - Pre-mineure suivante **(1.1.0-0)**
+  > - Patch suivant **(3.0.0)**
+  > - Pre-patch suivant **(3.0.1-0)**
+  > - Pre-release suivante **(3.0.0-beta-2)**
 
 - **2.3.1+nightly.230524.0114** : Version mineure, avec un build nightly.
